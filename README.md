@@ -1,7 +1,3 @@
-<img src="https://github.com/user-attachments/assets/89f1b0f8-2c4f-4e2a-9c8b-0f5e8d9e1a2f" width="100%"/>
-
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=AZAMAT+%7C+Backend+%26+Fullstack+Developer;Python+%E2%9A%A1+Django+%E2%9A%A1+FastAPI;C%23+.NET+Core+%7C+Flask+%7C+DRF;Building+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -13,12 +9,6 @@
   <a href="https://linkedin.com/in/azamatdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:azamat.work@mail.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=agmm7834&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=agmm7834&theme=dracula&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=FF4500&currStreakLabel=00FF9D" />
-</div>
-
 <br><br>
 
 ### 🛠 Technologies & Skills
