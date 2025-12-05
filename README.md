@@ -16,8 +16,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=8&theme=dark" />
 
-<br> <br>
-
+<br> 
 **Databases & Tools**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux&perline=10&theme=dark" />
 <br>
