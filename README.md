@@ -2,7 +2,7 @@
   <img src="https://github.com/asanbekdev/asanbekdev/blob/main/banner.gif" alt="Banner" />
 </p>
 
-<h1 align="center">Salom, men Asanbek 👋</h1>
+<h1 align="center">Salom, men Azamat 👋</h1>
 
 <p align="center">
   <strong>Backend & Fullstack Developer</strong> from Uzbekistan 🇺🇿
