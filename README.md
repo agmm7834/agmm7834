@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/asanbekdev/asanbekdev/blob/main/banner.gif" alt="Banner" />
+</p>
 
-<!--
-**agmm7834/agmm7834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Salom, men Asanbek 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Backend & Fullstack Developer</strong> from Uzbekistan 🇺🇿
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/asanbekdev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/asanbekdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+### 🛠 Texnologiyalar
+
+```text
+Python • Django • DRF • Flask • FastAPI
+C# • ASP.NET Core • Entity Framework
+C/C++ • PHP • JavaScript
+HTML • CSS • Bootstrap • Tailwind
+PostgreSQL • SQLite • MySQL • Redis
+Docker • Git • Linux • REST API
