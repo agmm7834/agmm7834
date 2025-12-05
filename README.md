@@ -14,13 +14,13 @@
 ### 🛠 Technologies & Skills
 
 <div align="center">
-  #### Backend & Fullstack
+  ### Backend & Fullstack
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java,spring&perline=9&theme=dark" />
   
-  #### Frontend
+  ### Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue&perline=8&theme=dark" />
   
-  #### Databases & Tools
+  ### Databases & Tools
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,github,linux,vscode,pycharm&perline=8&theme=dark" />
 </div>
 
