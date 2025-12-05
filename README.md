@@ -7,9 +7,10 @@
 <div align="center">
 
 **Backend & Fullstack**  
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,ruby,dotnet,php&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&perline=10&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=php,dotnet,ruby,cs&perline=10&theme=dark" />
+<br>
 **Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=8&theme=dark" />
 
@@ -17,6 +18,8 @@
 
 **Databases & Tools**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,redis,docker,git&perline=10&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=redis,docker,git&perline=10&theme=dark" />
 
 </div>
 
