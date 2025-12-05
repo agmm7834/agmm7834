@@ -15,14 +15,14 @@
 **Frontend**  
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=8&theme=dark" />
-
+</div>
 <br> 
 **Databases & Tools**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux&perline=10&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=redis,docker,git,github&perline=10&theme=dark" />
 
-</div>
+
 <br>
 <p align="center">
   <a href="https://t.me/True2197" target="_blank">
