@@ -14,20 +14,13 @@
 ### 🛠 Technologies & Skills
 
 <div align="center">
-
-#### Backend & Fullstack
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java,spring&perline=9&theme=dark" />
-
-#### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue&perline=8&theme=dark" />
-
-#### Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,github,linux,vscode,pycharm&perline=8&theme=dark" />
-
+  #### Backend & Fullstack
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java,spring&perline=9&theme=dark" />
+  
+  #### Frontend
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue&perline=8&theme=dark" />
+  
+  #### Databases & Tools
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,github,linux,vscode,pycharm&perline=8&theme=dark" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agmm7834&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" />
-</div>
