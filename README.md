@@ -22,7 +22,7 @@
 <div align="center"> 
   
 **Databases & Tools**
-<br>
+<br> <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux&perline=10&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=redis,docker,git,github&perline=10&theme=dark" />
