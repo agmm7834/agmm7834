@@ -7,17 +7,17 @@
 <div align="center">
 
 **Backend & Fullstack**  
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php&perline=10&theme=dark" />
 
 <br>
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=8&theme=dark" />
 
 <br>
 
 **Databases & Tools**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,github,linux,vscode,pycharm&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,linux,vscode,pycharm&perline=10&theme=dark" />
 
 </div>
 
