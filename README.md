@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=AZAMAT+%7C+Backend+%26+Fullstack+Developer;Python+%E2%9A%A1+Django+%E2%9A%A1+FastAPI;C%23+.NET+Core+%7C+Flask+%7C+DRF;" alt="Typing SVG" />
 </div>
 
-<br>
-
 <p align="center">
   <a href="https://t.me/True2197" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
