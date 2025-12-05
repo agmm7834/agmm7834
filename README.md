@@ -17,7 +17,7 @@
 <br>
 
 **Databases & Tools**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,linux,vscode,pycharm&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,redis,docker,git&perline=10&theme=dark" />
 
 </div>
 
