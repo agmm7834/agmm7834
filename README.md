@@ -23,7 +23,7 @@
 <div align="center">
 
 **Backend & Fullstack**  
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java,spring&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java&perline=10&theme=dark" />
 
 <br><br>
 
