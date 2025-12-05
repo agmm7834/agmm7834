@@ -31,11 +31,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agmm7834&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=agmm7834&color=00FF9D&style=for-the-badge&label=PROFILE+VIEWS" />
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p" width="100%"/>
-</div>
