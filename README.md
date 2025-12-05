@@ -1,7 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/231286807?v=4" alt="header" width="10%"/>
-
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=agmm7834+%7C+Backend+Developer;Python+%E2%9A%A1+Django+%E2%9A%A1+FastAPI;C%23+.NET+Core+%7C+Fullstack;Building+scalable+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
