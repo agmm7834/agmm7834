@@ -38,20 +38,6 @@
 
 <br>
 
-### 🔥 Top Projects
-
-<div align="center">
-
-| Project | Description | Tech | Stars |
-|--------|-------------|------|-------|
-| <a href="https://github.com/agmm7834/FaceAttendanceSystem"><strong>FaceAttendanceSystem</strong></a> | Yuzni tanish orqali davomat tizimi | Python • OpenCV • Django | ![](https://img.shields.io/github/stars/agmm7834/FaceAttendanceSystem?style=social) |
-| <a href="https://github.com/agmm7834/EduCenter"><strong>EduCenter</strong></a> | To'liq o'quv markazi CRM | Django • DRF • PostgreSQL | ![](https://img.shields.io/github/stars/agmm7834/EduCenter?style=social) |
-| <a href="https://github.com/agmm7834/Django_converter_templates"><strong>Django Converter</strong></a> | Avtomatik template generator | Python • Django | ![](https://img.shields.io/github/stars/agmm7834/Django_converter_templates?style=social) |
-
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agmm7834&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=ffffff" />
 </div>
