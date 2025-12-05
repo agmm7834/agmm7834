@@ -17,6 +17,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=8&theme=dark" />
 </div>
 <br> 
+
 **Databases & Tools** 
 <div align="center"> 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux&perline=10&theme=dark" />
@@ -24,7 +25,6 @@
 <img src="https://skillicons.dev/icons?i=redis,docker,git,github&perline=10&theme=dark" />
 
 
-<br>
 <p align="center">
   <a href="https://t.me/True2197" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
