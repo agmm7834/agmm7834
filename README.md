@@ -5,22 +5,34 @@
 <br>
 
 <p align="center">
-  <a href="https://t.me/azamatdev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/azamatdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:azamat.work@mail.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/azamatdev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/azamatdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:azamat.work@mail.ru">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 <br><br>
 
 ### 🛠 Technologies & Skills
 
 <div align="center">
-  ### Backend & Fullstack
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java,spring&perline=9&theme=dark" />
-  
-  ### Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue&perline=8&theme=dark" />
-  
-  ### Databases & Tools
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,github,linux,vscode,pycharm&perline=8&theme=dark" />
-</div>
 
+**Backend & Fullstack**  
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php,nodejs,express,java,spring&perline=10&theme=dark" />
+
+<br><br>
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue&perline=8&theme=dark" />
+
+<br><br>
+
+**Databases & Tools**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,github,linux,vscode,pycharm&perline=10&theme=dark" />
+
+</div>
