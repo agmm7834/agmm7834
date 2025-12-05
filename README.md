@@ -7,10 +7,9 @@
 <div align="center">
 
 **Backend & Fullstack**  
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,cs,php&perline=10&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,ruby,dotnet,php&perline=10&theme=dark" />
 <br>
-
+<img src="https://skillicons.dev/icons?i=php,dotnet,ruby,cs&perline=10&theme=dark" />
 **Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=8&theme=dark" />
 
