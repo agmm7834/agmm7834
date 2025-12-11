@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**Backend & Fullstack**  
+**Backend**  
 <br>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&perline=10&theme=dark" />
 <br>
