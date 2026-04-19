@@ -42,11 +42,5 @@
 </a>
 
 </div>
-
 ---
 
-<div align="center">
-
-✨ *"Code. Build. Scale. Repeat."* ✨
-
-</div>
