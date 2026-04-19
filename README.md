@@ -4,13 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
-</div>
-
----
-
 ## 🧠 About Me
 - 🚀 Backend Developer focused on scalable systems  
 - ⚡ Love working with APIs & performance optimization  
