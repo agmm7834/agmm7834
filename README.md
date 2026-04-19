@@ -30,15 +30,15 @@
 <div align="center">
 
 <a href="https://t.me/True2197">
-  <img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/azamat-tojiyev-731869359/">
-  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:atojiyev2197@gmail.com">
-  <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
