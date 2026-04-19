@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Azamat+Tojiyev;Backend+Developer+⚡;Python+%7C+Django+%7C+FastAPI;Clean+Code+%7C+Scalable+Systems" />
 </h1>
 
----
-
-## 🧠 About Me
-- 🚀 Backend Developer focused on scalable systems  
-- ⚡ Love working with APIs & performance optimization  
-- 🧩 Always learning new tech & building cool stuff  
-
----
 
 ## ⚙️ Tech Stack
 
@@ -30,20 +22,6 @@
 ### 🗄️ Databases & DevOps
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,linux,git,github&theme=dark" />
-</div>
-
----
-
-## 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
-## 🧩 Quote of the Day
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
